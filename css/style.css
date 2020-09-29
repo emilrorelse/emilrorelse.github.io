@@ -56,7 +56,7 @@ main{
 /* Styling Logo */
 /****************/
 #logo{
-    float: center;
+    float: left;
     padding: none;
     margin: none;
     height: 60px;
